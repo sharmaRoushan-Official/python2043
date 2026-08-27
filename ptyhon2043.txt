@@ -1,0 +1,345 @@
+Python:
+-----------
+
+
+1). What is Python?
+-------------------------------------
+Python is high-level, general-purpose, interpreted programming language that is designed to be easy to read, easy to write, and easy to learn.
+-----------------------------------------------------------------------------------------------
+
+> Procedural Programming language
+> Object-Oriented programming(OOP)
+> Functional Programming
+-----------------------------------------
+
+Note:
+
+Python is a language that helps us to communicate with computer using simple English like syntax. 
+>> It is widely used because it reduce development time and works in almost every domain.
+
+
+high-level:
+----------------------------------
+>> Who is the father of computer?
+>> Charles Baggage is the father Computer Architecture.
+-------------------------------------------------------
+Programming Language
+---------------------------------
+> Lady Ada Loveless is the first programmer of computer.
+>> Analytical Engine: Machine Learning (0,1)
+
+>> 101 -> 5
+--------------------------------------------------------------------
+
+Programming Term: / Software
+	|
+Program: A program is a set of Instructions.
+	|
+Instruction
+	|
+	Raw/Data
+---------------------------------------------------------------------
+Python?
+---------------------
+Python was created by Guido Van Rossum in 1989 and Officially released in 1991.
+
+C,C++,Java, Python
+--------------------
+
+Python -> Snake
+Anoconda -> Snake
+
+Note:
+
+Python's name is inspired by the comedy show "Monty Python's Flying Circus"
+--------------------------------------
+
+1965---> AI
+--------------------------
+Chatgpt - 2022 August
+
+-------------------------------------------------------------------------
+
+
+-------------------------------------
+Python is high-level, general-purpose, interpreted programming language that is designed to be easy to read, easy to write, and easy to learn.
+
+---------------------------
+
+1.High-Level :- A high-level language is closer to human language and easier to understand.
+
+
+This is a cat.
+
+Example: 
+----------------------
+
+Python:
+
+C,C++
+
+Benefits: - 
+> Easy syntax
+> Faster development
+> Easy Debugging :  Human Readable program
+-----------------------------------------------------
+
+Debug:-  Bug:[Minor Error] ->  Whole Program Infected.
+
+.  :>=:- Error
+---------------------------------------------
+
+1. Compilation Error:  compilation Error
+Object File: -  abc.c ---> abc.exe[machine executable]
+
+
+2. Runtime Error: Python
+you code can be checked by interpreter line by line and executed line by line.
+
+
+---------------------------------------------
+Low-Level language:
+------------------------
+Low Level: Low-Level languages are closer to machine language and difficult for human.
+
+Benefits
+
+> Very Fast Execution
+> Direct Control of Hardware.
+--------------------------------------------------------------------
+
+High-level Language are like English, Low-Level language are binary signal.
+
+
+
+------------------------------------------------------------------------------------
+
+KeyBorad ---> Signal  
+
+
+
+
+
+
+
+Number System
+----------------------
+Base:-
+1. Decimal system	2. Binary Number	3. Octal Number		4.Hexa-Decimal
+(8)10				(101)2			(45)8			(AD2)16
+> 0-9 = 10		>> (1010111100)-2	>>0-7 = 8		> 0-9,Aa-Ff = 16 
+
+A-10
+B-11
+C-12
+D-13
+E-14
+F-15
+-----------
+16
+----------------------------------------------------------------------------------------------------------
+
+
+1. CPU  ---> Cores  ->  One program at a time.
+
+-------------------------------------------------------------
+
+interpreted programming:  An interpreter translate the program line by line.
+
+------------------------
+Example:
+
+Python
+
+javaScript
+
+java
+
+Ruby
+
+Go
+
+-----------------------------------------------
+
+Characteristics:
+
+>>  Easy Debugging
+>>  Slower than compiled language
+>>  Execute Directly.
+
+
+----------------------------------------------------------------------------
+
+Compiler:
+
+A Compiler tanslate the entire code at once into machine code.
+
+Example:
+
+C,
+C++
+C#
+Java : (java uses both Compiler + Interpreter concept.)
+
+Characteristics
+
+>>  Faster execution
+>>  Error show after full compilation.
+
+
+---------------------------------------------------------------------------------------------------
+
+Feature		|	Compiler		| Interpreter
+-----------------------------------------------------------------------
+Translation	| Whole Program			| Line by line
+
+Execution	| Fast: Programming		| Slower : Accuracy+ Huge Data + Big Data
+
+Error Display	| After Compilation		| Immediate
+
+Example		| C,C++				| Python, JavaScript
+-----------------------------------------------------------------------------------------------------------
+
+
+>> general-purpose
+
+>> A general-purpose language is used to built any type of software.
+
+Python can be used for:
+
+> Website
+> Mobile apps
+> Data Science
+> AI/ML
+> power-Bi
+> Automation
+> Cybersecurity
+> Games
+> Desktop apps
+> Deep learning
+> Data Scientist
+> etc
+-------------------------------------------------------------
+
+Note:
+
+C is also general-purpose, but Python is preferred because it is simpler.
+
+-------------------------------------------------------------------------
+
+
+
+
+Python: Course Content
+---------------------------------
+
+Program:
+
+A program is a set of instructions given to the computer to perform a specific task.
+
+
+Example:
+
+A Calculator program
+
+> Take input
+> Perform options
+> Display Output
+
+----------------------------------------------------------------------
+
+1. Python Basic
+2. Python Data types
+3. String Data type
+4. List data type
+5. Tuple data type
+6. set data type
+7. dictionary data type
+8. Condition in python
+9. Loops
+	>> 1. Entry Controlled Loop
+		>> For-in  -------> Python
+		>> For-of
+		>> For
+		>> While  -----------> Python
+	>> 2. Exit Controlled Loop : C,C++,java, JavaScript etc
+		>> do-While
+
+10. Function in python
+	>> 1. Built-in Function -> 33 functions
+	>> 2. User-Defined Function
+	>> 3. Anonymous Function(Lambda)
+11. Exceptional-handling
+	>> try, except, else, finally, raise, assertion
+12. OOPs:
+	class
+	object
+	4-Pillars of OOPs
+	1. Inheritance:  parent class -> Derived Class/Child class
+		1. Single/Simple Inheritance
+		2. Multiple Inheritance
+		3. Multilevel Inheritance
+		4. Hierarchical Inheritance
+		5. Hybrid Inheritance
+		
+	2. Encapsulation: [Wrapping up of data]
+		1. Public  
+		2. Protected (single Underscore)
+		3. Private: (double Underscore)
+	3. Polymorphism:
+		1. Method Overloading: [Compile time Polymorphism]
+		2. Method Overriding: [Runtime Time Polymorphism]
+		3. Operator Overloading : `+`
+	4. Data Abstraction
+	Module: from abc import ABC, @abstractmethod
+	[abc- Abstract Base Classes]
+
+13. File Handling
+	1. text File: [.txt]
+	2. Binary File: [.jpg, .jpeg, .pdf, .exe., .doc, .docx., .ppt]
+	
+	1. Reading Files in Python
+	2. Writing Files in Python
+14. Lambda Functions
+	Method: filter(), map(), reduce(), sort(), apply()
+15. List Comprehension
+
+16. Decorator in Python 
+
+17. Generator in Python
+
+18. JSON in Python
+	[JavaScript object notation ]
+
+19. API: [Application programming Interface]
+	method
+	>> GET
+	>> POST
+	>> PUT
+	>> PATCH
+	>> Delete
+	>>> Status_code
+
+20. Minimal Project of Python
+
+
+35,45: Lectures
+
+----------------------------------------------------------------------------------------
+
+Installation of Python and Notebook
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
