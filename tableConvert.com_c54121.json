@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Pratiksha",
+    "Age": "23",
+    "Subject ": "Computer Science",
+    "Address": "Sangli"
+  },
+  {
+    "Name": "Diksha",
+    "Age": "85",
+    "Subject ": "Science",
+    "Address": "Satara"
+  },
+  {
+    "Name": "Disha",
+    "Age": "32",
+    "Subject ": "Social Science",
+    "Address": "NOIDA"
+  },
+  {
+    "Name": "Akash",
+    "Age": "14",
+    "Subject ": "History",
+    "Address": "Lucknow"
+  }
+]
